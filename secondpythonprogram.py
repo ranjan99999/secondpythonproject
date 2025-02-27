@@ -2,3 +2,4 @@
 my_dcit = {"a":["ranjan"],"b":["sakshi"]}
 my_dcit["a"].append("singh")
 print(my_dcit)
+# what if i want add two key in one value
