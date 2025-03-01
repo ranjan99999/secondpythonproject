@@ -17,3 +17,4 @@ for item in my_string.split():
     else:
         empty_string =empty_string +" " + item
 print(empty_string)
+# all the above program based on the python language and asked in the interview many times
